@@ -1,0 +1,11 @@
+pose_1_6_4_2023.mp4
+length 00:00:36
+width 1280
+height 720
+fps 30
+
+pose_2_6_4_2023.mp4
+length 00:00:41
+width 1280
+height 720
+fps 30
